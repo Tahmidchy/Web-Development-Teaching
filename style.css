@@ -1,0 +1,25 @@
+body {
+    background-color: azure;
+}
+
+h1 {
+    color: black;
+    font-family: 'Gill Sans', sans-serif;
+    font-size: xx-large;
+    border: 5px solid salmon;
+    padding: 15px;
+    margin: 10px;
+}
+
+p {
+    color: blueviolet;
+    font-family: cursive;
+    font-size: larger;
+    border: 3px solid seagreen;
+    padding: 10px;
+    margin: 10px;
+}
+
+#po1 {
+    color: blue;
+}
